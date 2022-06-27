@@ -1,0 +1,5 @@
+print(np.average(cv_results['train_score']))
+# print(np.average(cv_results['test_score']))
+# print(np.average(cv_results['train_precision_macro']))
+# print(np.average(cv_results['test_precision_macro']))
+# print(np.average(cv_results['recall_macro']))
